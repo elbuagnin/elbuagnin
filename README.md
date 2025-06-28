@@ -4,7 +4,7 @@
 I'm the founder of Glass Canvas Web Design, where I help small businesses, entrepreneurs, the trades, and creators obtain a professional and modern web presence without breaking the bank. In addition to doing web design for clients, I have my hands in various web ventures wherever my interests take me.
 
 ## What I am Working On
-    • **Glass Canvas Web Design** - Building custom web solutions for businesses ready to elevate their online presence 
+    • Glass Canvas Web Design - Building custom web solutions for businesses ready to elevate their online presence 
     • AI-Assisted RPGs - Exploring the intersection between tabletop-styled RPGs and AI automation.
     • Open Source Contributions - Contributing to projects that help build the web
 
